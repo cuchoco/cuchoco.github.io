@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Cuchoco"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Deeplearning"
+  location         : "South Korea"
+  email            : "kuchoco97@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
