@@ -15,10 +15,10 @@
 minimal_mistakes_skin    : "plum" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+locale                   : "ko-KR"
+title                    : "chococo"
+title_separator          : "|"
+subtitle                 : "Ideals are peaceful, history is violent"
 name                     : "Kim Ji Hwan"
 description              : "Deep Dive"
 url                      : "https://cuchoco.github.io"
