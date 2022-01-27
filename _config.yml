@@ -106,11 +106,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Deeplearning"
   location         : "South Korea"
-  email            :
+  email            : "kuchoco97@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "kuchoco97@gmail.com"
+      # url: 
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
