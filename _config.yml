@@ -105,7 +105,7 @@ author:
   name             : "Cuchoco"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Deeplearning"
-  location         : "South Korea"
+  location         : # "South Korea"
   email            : "kuchoco97@gmail.com"
   links:
     - label: "Email"
