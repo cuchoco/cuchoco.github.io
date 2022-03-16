@@ -73,7 +73,7 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  :
+naver_site_verification  : "2e48e0f8b2223e95fa4cadeca39cf0583aac6d6c"
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -105,7 +105,7 @@ author:
   name             : "Cuchoco"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Deeplearning"
-  location         : "South Korea"
+  location         : # "South Korea"
   email            : "kuchoco97@gmail.com"
   links:
     - label: "Email"
