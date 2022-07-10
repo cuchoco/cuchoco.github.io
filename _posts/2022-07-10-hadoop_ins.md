@@ -11,7 +11,7 @@ toc_sticky: true
 # Hadoop3 설치방법
 ubuntu 20.04 LTS 사용.   
 Hadoop-3.2.3 버젼을 설치했으며  
-https://hadoop.apache.org/docs/r3.2.3/hadoop-project-dist/hadoop-common/SingleCluster.html
+<https://hadoop.apache.org/docs/r3.2.3/hadoop-project-dist/hadoop-common/SingleCluster.html>
 를 참고했다.
 
 ## 1. JAVA install
