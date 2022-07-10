@@ -74,7 +74,7 @@ chmod 0600 .ssh/authorized_keys
 ssh localhost
 ```
 
-### namenode 접속
+### HDFS 서비스 접속
 ```bash
 bin/hdfs namenode -format
 sbin/start-dfs.sh
@@ -122,14 +122,14 @@ vi etc/hadoop/yarn-site.xml
 sbin/start-yarn.sh
 # http://localhost:8088/ 접속 확인
 ```
-namenode 포트 9870   
+HDFS 서비스 포트 9870   
 yarn 포트 8088
 
 내 로컬 vscode에 port를 뚫어서 연결 해봤다.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/37405384/178139186-8d66b272-6189-413d-957a-ebc0e050abeb.png" height=150></p>
 
-Namenode 접속
+HDFS 서비스 접속
 
 <p align="center"><img src="https://user-images.githubusercontent.com/37405384/178139227-afaf4af2-e08a-432e-b239-756475d472dc.png" height=300></p>
 
