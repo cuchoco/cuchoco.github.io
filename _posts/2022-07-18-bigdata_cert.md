@@ -32,7 +32,7 @@ toc_sticky: true
 
 ## 필기
 
-필기 과목의 경우 교재의 데이터 에듀 교재를 사용 했는데 내용이 ADsP와 80퍼 이상 겹치는 부분이 있었다. 데이터 에듀 교재보단 <u>[기사패스 문제집](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791191388121&orderClick=LBP&Kc=)</u> 이 더 도움이 됐던것 같다.  
+필기 과목의 경우 교재의 데이터 에듀 교재를 사용 했는데 내용이 ADsP와 80퍼 이상 겹치는 부분이 있었다. 데이터 에듀 교재보단 **[기사패스 문제집](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791191388121&orderClick=LBP&Kc=)** 이 더 도움이 됐던것 같다.  
 교재 2번 읽고 문제풀이 3번 정도 반복하고 갔다. 
 
 <img src="/assets/images/blog/bigdata_2.png"> 
