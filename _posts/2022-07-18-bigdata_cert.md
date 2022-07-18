@@ -32,7 +32,7 @@ toc_sticky: true
 
 ## 필기
 
-필기 과목의 경우 교재의 데이터 에듀 교재를 사용 했는데 내용이 ADsP와 80퍼 이상 겹치는 부분이 있었다. 데이터 에듀 교재보단 [기사패스 문제집](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791191388121&orderClick=LBP&Kc=)이 더 도움이 됐던것 같다.  
+필기 과목의 경우 교재의 데이터 에듀 교재를 사용 했는데 내용이 ADsP와 80퍼 이상 겹치는 부분이 있었다. 데이터 에듀 교재보단 <u>[기사패스 문제집](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791191388121&orderClick=LBP&Kc=)</u> 이 더 도움이 됐던것 같다.  
 교재 2번 읽고 문제풀이 3번 정도 반복하고 갔다. 
 
 <img src="/assets/images/blog/bigdata_2.png"> 
@@ -47,7 +47,7 @@ toc_sticky: true
 3. 작업형 제2유형: 머신러닝 모델링 1문제
 
 평소 파이썬을 자주 썼기 때문에 어렵게 준비하지는 않았다. 시험문제도 정형화되어있는 편였다. 기본적인 전처리 방법을 알고 간단한 머신러닝 모델을 만들고 학습시킬 줄 알면 통과 할 수 있는 시험이다.  
-교재는 예문사의 빅데이터 분석기사 실기 한권완성을 사용했는데 파이썬 기본을 할 줄 안다면 실기 책은 도움이 별로 안됐던것 같다. 오히려 데이터 마님의 연습문제로 전처리 연습을 했던것이 도움이 더 됌.
+교재는 예문사의 빅데이터 분석기사 실기 한권완성을 사용했는데 파이썬 기본을 할 줄 안다면 실기 책은 도움이 별로 안됐던것 같다. 오히려 데이터 마님의 연습문제로 전처리 연습을 했던것이 도움이 더 되었다.  
 
 > [데이터 마님 페이지](https://www.datamanim.com/intro.html)
 
