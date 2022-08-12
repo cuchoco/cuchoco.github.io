@@ -122,18 +122,18 @@ vi etc/hadoop/yarn-site.xml
 sbin/start-yarn.sh
 # http://localhost:8088/ 접속 확인
 ```
-HDFS 서비스 포트 9870   
-yarn 포트 8088
+NameNode Web UI 포트 9870   
+Resouce Manager 포트 8088
 
 내 로컬 vscode에 port를 뚫어서 연결 해봤다.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/37405384/178139186-8d66b272-6189-413d-957a-ebc0e050abeb.png" height=150></p>
+<p align="center"><img src="/assets/images/hadoop/hadoop_ins1.png" height=150></p>
 
-HDFS 서비스 접속
+NameNode Web UI 접속
 
-<p align="center"><img src="https://user-images.githubusercontent.com/37405384/178139227-afaf4af2-e08a-432e-b239-756475d472dc.png" height=300></p>
+<p align="center"><img src="/assets/images/hadoop/hadoop_ins2.png" height=300></p>
 
 
-YARN 접속
+Resouce Manager 접속
 
-<p align="center"><img src="https://user-images.githubusercontent.com/37405384/178139234-c4bd691a-ea56-41d5-adbc-561a2af3f259.png" height=300></p>
+<p align="center"><img src="/assets/images/hadoop/hadoop_ins3.png" height=300></p>
